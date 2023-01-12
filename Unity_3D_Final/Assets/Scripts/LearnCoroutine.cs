@@ -16,7 +16,7 @@ namespace BING
         // 4. 使用 StartCoroutine 啟動
 
         // 字串 string 為 char 陣列
-        private string testDialogue = "這裡好恐怖，我想要快點離開...";
+        private string testDialogue = "看來得想辦法先從這裡離開才行";
 
         private void Awake()
         {
